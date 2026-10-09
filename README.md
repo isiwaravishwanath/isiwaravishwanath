@@ -6,7 +6,7 @@ Software Engineering Student who is passionate about Coding, problem solving & r
 
 * 🌱 I'm a Software Engineering student at iCET.
 * 💬 Ask me about anything, I'm happy to help
-* 📫 How to reach me: your.email@gmail.com
+* 📫 How to reach me: isiwaravishwanath01@gmail.com
 
 ---
 
