@@ -21,7 +21,17 @@ Software Engineering Student who is passionate about Coding, problem solving & r
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Html]([https://www.flaticon.com/free-icon/text_16020759?term=html&page=1&position=2&origin=search&related_id=16020759](https://camo.githubusercontent.com/047dd6aa31839bd54509799d8711a481dfda9c58b892332869d3edcbacc92a24/68747470733a2f2f7777772e726561646d65636f646567656e2e636f6d2f6170692f736f6369616c2d69636f6e3f6e616d653d68746d6c352673697a653d353026616e696d6174696f6e3d676c6f77))
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+</p>
 
 <!--
 **isiwaravishwanath/isiwaravishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
