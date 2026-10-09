@@ -13,14 +13,13 @@ Software Engineering Student who is passionate about Coding, problem solving & r
 ## Find Me Around the Web
 
 * [LinkedIn](www.linkedin.com/in/isiwara-vishwanath-417537229)
-* [GitHub]([https://github.com/yourusername](https://github.com/isiwaravishwanath))
+* [GitHub](https://github.com/isiwaravishwanath)
 
 ---
 
 ## Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,6 +28,7 @@ Software Engineering Student who is passionate about Coding, problem solving & r
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Html](https://www.flaticon.com/free-icon/text_16020759?term=html&page=1&position=2&origin=search&related_id=16020759)
 
 <!--
 **isiwaravishwanath/isiwaravishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
